@@ -4,4 +4,4 @@ This is the **first** true TOP assignment. The goal is to create a simple recipe
 
 The goal of this project is to:
 * Gain familiarity with the Git Workflow (add --> commit --> push)
-* Learn how to create a website using HTML
+* Learn how to create a website using HTMLk
