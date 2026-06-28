@@ -15,4 +15,10 @@ The goal of this project is to:
     * Author: Lynda Giddens
     * Source: https://www.flickr.com/photos/s_v_p/2909905509
     * License: https://creativecommons.org/licenses/by-nc-nd/2.0/
+2. Strawberry Cheesecake
+    * Title: Strawberry Cheesecake
+    * Author: Taku
+    * Source: https://www.flickr.com/photos/smaku/2643841557/
+    * License: https://creativecommons.org/licenses/by-nc-nd/2.0/
+
 
