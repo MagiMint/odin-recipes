@@ -20,5 +20,10 @@ The goal of this project is to:
     * Author: Taku
     * Source: https://www.flickr.com/photos/smaku/2643841557/
     * License: https://creativecommons.org/licenses/by-nc-nd/2.0/
+3. Buttermilk Pancakes
+    * Title: Double Stack Buttermilk Pancakes
+    * Author: Tojosan
+    * Source: https://www.flickr.com/photos/tojosan/5087521591
+    * License: https://creativecommons.org/licenses/by-nc-sa/2.0/
 
 
